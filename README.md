@@ -1,0 +1,5 @@
+Traffic Management Systems (TMS) provide permanent control across the network, automatically sets routes for trains and logs train movements as well as detects and solves potential conflicts.![Screenshot 2024-03-18 004953](https://github.com/nandhitha12/Smart-traffic-management-using-iot/assets/163751850/3509114c-ce6a-423c-8b8a-c3d924c77025)
+![Screenshot 2024-03-18 005202](https://github.com/nandhitha12/Smart-traffic-management-using-iot/assets/163751850/d1fee6cc-6511-48fe-b620-bc06b5e6f89b)
+![Screenshot 2024-03-18 004909](https://github.com/nandhitha12/Smart-traffic-management-using-iot/assets/163751850/1cb5d93b-25fa-4759-9cf4-3a167e829cab)
+![Screenshot 2024-03-18 004953](https://github.com/nandhitha12/Smart-traffic-management-using-iot/assets/163751850/fea119cb-1303-48f8-9e6b-a8f2219bca65)
+![Screenshot 2024-03-18 005258](https://github.com/nandhitha12/Smart-traffic-management-using-iot/assets/163751850/ee70386f-cc6b-4ef6-9f8a-933af8095e79)
